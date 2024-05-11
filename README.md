@@ -11,7 +11,7 @@ This Terraform configuration provisions a robust and scalable backend infrastruc
 **NOTE: I have considered few test configuration for deploying a dev environment. However, if you would like to give own resource names/values/settings/tags, Please remove "terraform.tfvars" from the the cloned files, so that it will give a feasibility for you to enter custom values during terraform apply.**
 
 1. Clone this repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/sivaprakash451/poteratask
 
 
 2. Initialize Terraform:
